@@ -1,10 +1,4 @@
 # Scripting en Bash
-Esta es la práctica de scripting en Bash y el objetivo era realizar varios ejercicios sobre:
-
-- permisos y formas de ejecución de scripts
-- manejo de variables de ambiente
-- lectura de entradas
-- combinación de comandos.
 
 ### welcome.sh<br>
 Muestra la fecha y el usuario del sistema
