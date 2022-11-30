@@ -7,7 +7,7 @@ Esta practica va enfocada a la consulta y manejo de las apis, en dicha practica 
 capaz de obtener informacion solicitada mediante la automatizacion.
 
 ### [3. Scripting en Powershell](https://github.com/jesmer-hasegawa/Repositorio-en-GitHub/tree/main/3.%20Scripting%20en%20Powershell "3. Scripting en Powershell")
-Esta practica consta de dos partes
+Esta practica consta de dos partes.
 PARTE 1 – Escaneo de equipos activos 
 PARTE 2 – Escaneo puertos de un equipo en la subred 
 
